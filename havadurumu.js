@@ -4,7 +4,7 @@ const weather = require('weather-js');
 exports.run =  (bot, message, args) => {
   if (!args[0]) return message.channel.send({embed: {
        color: Math.floor(Math.random() * (0xFFFFFF + 1)),
-       description: (`:no_entry_sign:Şehir girsene olum nerenin hava durumunu istediğin bana vahiy mi gelcek.`)
+       description: (`:no_entry_sign:Nerede yaşadığını ben bilecem gir bi şehir xd.`)
  
  }});
  weather.find({search: args.join(" "), degreeType: 'C'}, function(err, result) { 
