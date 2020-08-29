@@ -6,4 +6,4 @@ THIS INFRASTRUCTURE IS BELONGING TO ALVI
 
 DİSCORD SUNUCUMUZ:https://discord.gg/xCXEk3V
 
-KİŞİSEL DİSCORD HESABIM: .alvi Hâzrêtlerî 岺#2480,
+KİŞİSEL DİSCORD HESABIM: .alvi Hâzrêtlerî 岺#2480
